@@ -79,27 +79,6 @@ Bwana employs the following specialized tools during its investigation (simulate
 3. Watch the visible thinking blocks appear as tools are called.
 4. Review the final report, which will highlight missing gazette records or encumbrances, and provide a LandScore and insurance quote.
 
----
-
-## Demo Video & Screenshots
-
-*Demo video link: [Insert Link Here]*
-
-*Screenshots:*
-*(Add screenshots of the UI, the thinking process, and the final risk report here)*
-
----
-
-## Team Members & Roles
-
-- **Caroline Murimi**: Full-Stack Development, AI Integration & Prompt Engineering
-- **[Member 2 Name]**: [Role]
-- **[Member 3 Name]**: [Role]
-
-*(Update the names and roles as appropriate for your team)*
-
----
-
 ## Data Handling and Political Neutrality Policy
 
 **Data Handling:**
